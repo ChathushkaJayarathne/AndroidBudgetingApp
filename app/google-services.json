@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "114400410352",
+    "project_id": "pocketbudget-5faed",
+    "storage_bucket": "pocketbudget-5faed.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:114400410352:android:938bc7c72eae53efd2a035",
+        "android_client_info": {
+          "package_name": "com.CJMobAppDevpPrjct.PocketBudget.Activities"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "114400410352-7s8s4c9tgrsnb63va89vhg1eonuu7vib.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.CJMobAppDevpPrjct.PocketBudget.Activities",
+            "certificate_hash": "3c338fcd541baab804513a4933356cff7f9f26e5"
+          }
+        },
+        {
+          "client_id": "114400410352-tgmru9d2830qb23ks704k5nsesfo43rj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZnzcXTb4Ua0LHcXZ529JARoNlOFQxF1c"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "114400410352-tgmru9d2830qb23ks704k5nsesfo43rj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
